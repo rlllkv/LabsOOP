@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\OOP\\lab1\\OOP_laba_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{105EF76F-E74C-4E83-85C7-9E71BA5CEF17}|..\\OOP_laba_1_3\\OOP_laba_1_3.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\\u0443\u0447\u0451\u0431\u0430\\oop\\lab1\\oop_laba_1_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{105EF76F-E74C-4E83-85C7-9E71BA5CEF17}|..\\OOP_laba_1_3\\OOP_laba_1_3.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\\u0443\u0447\u0451\u0431\u0430\\oop\\lab1\\oop_laba_1_3\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 28,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\OOP\\lab1\\OOP_laba_1_3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\OOP\\lab1\\OOP_laba_1_3\\Program.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:00:23.168Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\OOP\\lab1\\OOP_laba_1_3\\Tree.cs",
+              "RelativeDocumentMoniker": "..\\OOP_laba_1_3\\Tree.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\OOP\\lab1\\OOP_laba_1_3\\Tree.cs",
+              "RelativeToolTip": "..\\OOP_laba_1_3\\Tree.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAqwCgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T11:00:23.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

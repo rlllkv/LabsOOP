@@ -1,0 +1,14 @@
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\bin\Debug\net8.0\sync.exe
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\bin\Debug\net8.0\sync.deps.json
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\bin\Debug\net8.0\sync.runtimeconfig.json
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\bin\Debug\net8.0\sync.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\bin\Debug\net8.0\sync.pdb
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\sync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\sync.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\sync.AssemblyInfo.cs
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\sync.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\sync.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\refint\sync.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\sync.pdb
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\sync.genruntimeconfig.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab2\sync\obj\Debug\net8.0\ref\sync.dll

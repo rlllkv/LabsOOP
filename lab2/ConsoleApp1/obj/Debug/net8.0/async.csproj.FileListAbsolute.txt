@@ -1,0 +1,14 @@
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\bin\Debug\net8.0\async.exe
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\bin\Debug\net8.0\async.deps.json
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\bin\Debug\net8.0\async.runtimeconfig.json
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\bin\Debug\net8.0\async.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\bin\Debug\net8.0\async.pdb
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\async.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\async.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\async.AssemblyInfo.cs
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\async.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\async.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\refint\async.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\async.pdb
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\async.genruntimeconfig.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab2\ConsoleApp1\obj\Debug\net8.0\ref\async.dll

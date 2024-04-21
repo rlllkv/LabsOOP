@@ -1,0 +1,28 @@
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.exe
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.deps.json
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.runtimeconfig.json
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.dll
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.pdb
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.AssemblyInfo.cs
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.dll
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\refint\OOP_laba_1_2.dll
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.pdb
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.genruntimeconfig.cache
+C:\Users\student\Desktop\Целуев ИДБ-22-05\OOP_laba_1_2\obj\Debug\net7.0\ref\OOP_laba_1_2.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.exe
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.deps.json
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.runtimeconfig.json
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\bin\Debug\net7.0\OOP_laba_1_2.pdb
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.AssemblyInfoInputs.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.AssemblyInfo.cs
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\refint\OOP_laba_1_2.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.pdb
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.genruntimeconfig.cache
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\ref\OOP_laba_1_2.dll
