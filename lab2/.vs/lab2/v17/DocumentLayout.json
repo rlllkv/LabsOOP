@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\\Desktop\\\u0443\u0447\u0451\u0431\u0430\\OOP\\lab2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1E41805-AC44-4D81-8236-8242CBECBD85}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\\u0443\u0447\u0451\u0431\u0430\\oop\\lab2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1E41805-AC44-4D81-8236-8242CBECBD85}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1E41805-AC44-4D81-8236-8242CBECBD85}|ConsoleApp1\\async.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\\u0443\u0447\u0451\u0431\u0430\\oop\\lab2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1E41805-AC44-4D81-8236-8242CBECBD85}|ConsoleApp1\\async.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00DBF170-B16A-4C8D-B6F7-28EBB2FBDD94}|sync\\sync.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\\desktop\\\u0443\u0447\u0451\u0431\u0430\\oop\\lab2\\sync\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,8 +30,7 @@
               "RelativeToolTip": "sync\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-18T10:39:39.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-18T10:39:39.138Z"
             },
             {
               "$type": "Document",

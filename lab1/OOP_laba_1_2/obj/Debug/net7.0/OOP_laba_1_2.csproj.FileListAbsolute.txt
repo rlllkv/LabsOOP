@@ -26,3 +26,4 @@ C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\
 C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.pdb
 C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.genruntimeconfig.cache
 C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\ref\OOP_laba_1_2.dll
+C:\Users\Максим\Desktop\учёба\OOP\lab1\OOP_laba_1_2\obj\Debug\net7.0\OOP_laba_1_2.sourcelink.json
