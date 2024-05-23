@@ -1,0 +1,68 @@
+﻿@model BazaGRUD.Models.Group
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<style>
+    label.control-label, input#Name, input.btn.btn-primary {
+        margin-bottom:20px;
+    }
+
+    input.btn.btn-primary {
+        padding: 15px;
+        border:none;
+        border-radius: 10px;
+        background-color: #0c0c0c;
+        color: #fff;
+
+        margin-bottom:50px;
+    }
+
+    input.btn.btn-primary:hover{
+        background-color: rgba(0, 0, 0, 0.7);
+        color: #fff
+    }
+
+    div a#back{
+        text-decoration:none;
+        padding: 15px 30px;
+        border: none;
+        border-radius: 10px;
+        background-color: #0c0c0c;
+        color: #fff;
+    }
+
+    div a#back:hover{
+        background-color: rgba(0, 0, 0, 0.7);
+        color: #fff
+    }
+</style>
+
+<h1>Create</h1>
+
+<h4>Group</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" id="back">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
